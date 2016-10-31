@@ -35,7 +35,8 @@ You can add md5gui to your custom actions in Thunar
 -------------------------------------------------
 + Edit > Configure custom actions...  
 + Add new custom action.  
-Point it to the proper directory, where you downloaded md5gui.  
+  
++ Be sure to point it to the proper directory, where you downloaded md5gui.  
   
 ![Thunar](ThunarCustomAction.png?raw=true "Thunar Custom Actions")
   
