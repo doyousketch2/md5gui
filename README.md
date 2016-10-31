@@ -31,7 +31,7 @@ then install the easygui lib:
 
     pip install easygui
 
-You can add this to your custom actions in Thunar
+You can add md5gui to your custom actions in Thunar
 -------------------------------------------------
 + Edit > Configure custom actions...  
 + Add new custom action.  
