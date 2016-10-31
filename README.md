@@ -16,8 +16,9 @@ then install the easygui lib:
 
 I'm using python3
 ------------------
-If you use an earlier version, 
-remove '3' from the hashbang in the first line of your python script.
+If you use an earlier version,  
+remove '3' from the hashbang  
+in the first line of your md5gui.py script.
 
     #!/usr/bin/python3
 
