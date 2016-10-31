@@ -1,11 +1,10 @@
 # md5gui
 Simple gui box to show md5sum calculations.  
+
+![Screenshot](Screenshot.png?raw=true "Screenshot")
   
 Esecially helpful when modding .json files  
 contained within Scratch.sb2 zipfiles.  
-
-![Screenshot](Screenshot.png?raw=true "Screenshot")
-
 
 It requires the easygui lib
 
