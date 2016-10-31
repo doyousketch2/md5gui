@@ -36,7 +36,10 @@ You can add this to your custom actions in Thunar
 + Edit > Configure custom actions...  
 + Add new custom action.  
 Point it to the proper directory, where you downloaded md5gui.  
+  
 ![Thunar](ThunarCustomAction.png?raw=true "Thunar Custom Actions")
+  
 Specify the filetypes you'd like it to show up on.  
-I selected all, except for directories.
+I selected all, except for directories.  
+  
 ![Appear](ThunarAppear.png?raw=true "Thunar appearance settings")
