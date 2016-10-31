@@ -1,5 +1,5 @@
 # md5gui
-Simple gui box with md5sum calculation
+Simple gui box to show md5sum calculation
 
 ![Screenshot](Screenshot.png?raw=true "Screenshot")
 
