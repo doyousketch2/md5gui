@@ -35,5 +35,5 @@ You can add this to your custom actions in Thunar
 -------------------------------------------------
 Edit > Configure custom actions...  
 + Add new custom action.  
-![Thunar](ThunarCustomActions.png?raw=true "Thunar Custom Actions")
+![Thunar](ThunarCustomAction.png?raw=true "Thunar Custom Actions")
 ![Appear](ThunarAppear.png?raw=true "Thunar appearance settings")
