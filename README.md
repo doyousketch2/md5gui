@@ -1,6 +1,8 @@
 # md5gui
 Simple gui box with md5sum calculation
 
+![Screenshot](Screenshot.png?raw=true "Screenshot")
+
 
 It requires the easygui lib
 
