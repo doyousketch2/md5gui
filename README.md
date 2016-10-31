@@ -1,5 +1,8 @@
 # md5gui
-Simple gui box to show md5sum calculation
+Simple gui box to show md5sum calculations.  
+  
+Esecially helpful when modding .json files  
+contained within Scratch.sb2 zipfiles.  
 
 ![Screenshot](Screenshot.png?raw=true "Screenshot")
 
