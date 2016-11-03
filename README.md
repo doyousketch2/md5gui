@@ -1,3 +1,4 @@
+[![HitCount](https://hitt.herokuapp.com/doyousketch2/md5gui.svg)](https://github.com/doyousketch2/md5gui)
 # md5gui
 Simple gui box to show md5sum calculations.  
 
