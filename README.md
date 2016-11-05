@@ -1,4 +1,4 @@
-# md5gui   [![HitCount](https://hitt.herokuapp.com/doyousketch2/md5gui.svg)](https://github.com/doyousketch2/md5gui)
+# md5gui   [![HitCount](https://hitt.herokuapp.com/doyousketch2/md5gui.svg)](https://github.com/doyousketch2/md5gui) [![PythonVersions](https://img.shields.io/badge/Python-2.x%2C%203x-blue.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPL--3-lightgrey.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html) [![Scratch](https://img.shields.io/badge/Scratch-MIT.edu-orange.svg)](https://scratch.mit.edu/)
 Simple gui box to show md5sum calculations.  
 
 ![Screenshot](Screenshot.png?raw=true "Screenshot")
@@ -8,30 +8,50 @@ contained within Scratch.sb2 zipfiles.
 
 It requires the easygui lib
 
-If you don't have pip3:
+Install
+=======
 
-    sudo apt-get install pip3
-then install the easygui lib:
+- Linux ~ Python 2.x
 
-    pip3 install easygui
+        sudo apt-get update
 
+        sudo apt-get install libxml2-dev libxslt1-dev python-dev python-pip
 
-I'm using python3
-------------------
-If you use an earlier version,  
-simply remove '3' from the hashbang  
-in the first line of your md5gui.py script.
+        pip install pyquery
 
-    #!/usr/bin/python3
+- Linux ~ Python 3.x
 
-    #!/usr/bin/python
+        sudo apt-get update
 
-If you don't have pip:
+        sudo apt-get install libxml2-dev libxslt1-dev python3-lxml python3-dev python-pip3
 
-    sudo apt-get install pip
-then install the easygui lib:
+        pip3 install pyquery
 
-    pip install easygui
+- Mac ~ Python 2.x
+
+        sudo easy_install pip
+
+        pip install pyquery
+
+- Mac ~ Python 3.x
+
+        sudo easy_install pip3
+
+        pip3 install pyquery
+
+http://docs.python-guide.org/en/latest/starting/install/win
+
+- Win
+
+        python ez_setup.py
+
+        python get-pip.py
+
+        pip install pyquery
+
+If you need further help installing pip for your system, check the source:  
+https://pip.pypa.io/en/latest/installing
+
 
 You can add md5gui to your custom actions in Thunar
 -------------------------------------------------
