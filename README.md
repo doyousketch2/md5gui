@@ -17,7 +17,7 @@ Install
 
         sudo apt-get install libxml2-dev libxslt1-dev python-dev python-pip
 
-        pip install pyquery
+        pip install easygui
 
 - Linux ~ Python 3.x
 
@@ -25,19 +25,19 @@ Install
 
         sudo apt-get install libxml2-dev libxslt1-dev python3-lxml python3-dev python-pip3
 
-        pip3 install pyquery
+        pip3 install easygui
 
 - Mac ~ Python 2.x
 
         sudo easy_install pip
 
-        pip install pyquery
+        pip install easygui
 
 - Mac ~ Python 3.x
 
         sudo easy_install pip3
 
-        pip3 install pyquery
+        pip3 install easygui
 
 http://docs.python-guide.org/en/latest/starting/install/win
 
@@ -47,7 +47,7 @@ http://docs.python-guide.org/en/latest/starting/install/win
 
         python get-pip.py
 
-        pip install pyquery
+        pip install easygui
 
 If you need further help installing pip for your system, check the source:  
 https://pip.pypa.io/en/latest/installing
